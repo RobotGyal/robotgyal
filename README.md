@@ -1,14 +1,13 @@
 # Welcome to my Github Corner! 👋
 
 
-
-<img align='right' src='https://unsplash.com/photos/Kj3DvPqzBDw' width='200"'>
+![img](Interwoven.jpg)
 
 
 
 - 🔭 I’m currently working on a project about meteors and Space Rocks!! It is a data science project to see how they affect us here on Earth!
 
-- 🌱 I’m currently learning Tableau, Machine Learning, and Project Management!
+- 🌱 I’m currently learning Tableau, Machine Learning, AWS, and Project Management!
 
 - 👯 I’m looking to collaborate on projects involving Sustainability, Space Technology, and Robotics!
 
