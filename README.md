@@ -1,6 +1,6 @@
 # Welcome to my Github Corner! 👋
 
-![img](robotgyal/robotgyal/interwoven.jpg)
+![img](robotgyal/robotgyal/blob/master/Interwoven.jpg)
 
 - 🔭 I’m currently working on a project about meteors and Space Rocks!! It is a data science project to see how they affect us here on Earth!
 
